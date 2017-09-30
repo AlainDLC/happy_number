@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AppTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-09-30T15:50:28" hostname="DLC" time="0.001">
+  <properties/>
+  <testcase name="main" classname="AppTest" time="0.001"/>
+  <testcase name="sumOfSquareOfDigits" classname="AppTest" time="0.0"/>
+  <system-out><![CDATA[Im Test on1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
